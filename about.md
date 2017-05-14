@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm studying Computer Science at UIUC with a focus on security.
 
-### More Information
+I mostly use C and Python, but I'm looking forward to trying a project with Go in the future.
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy hiking the scenic trails around my home in central Pennsylvania and consider myself a mini golf enthusiast.
 
 ### Contact me
 
